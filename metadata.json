@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Movie Maker",
+  "description": "Generate short movie scripts, characters, scenes and simulate video production using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
